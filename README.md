@@ -1,3 +1,4 @@
+[![MasterHead](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX42344727.jpg)]
 <h1 align="center">Hi 👋, I'm Juned Shaikh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
